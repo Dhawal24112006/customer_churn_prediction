@@ -1,0 +1,11 @@
+numpy<3,>=1.26
+pandas<3,>=2.2
+scipy<2,>=1.12
+statsmodels<0.15,>=0.14
+scikit-learn<1.9,>=1.5
+matplotlib<4,>=3.8
+seaborn<0.14,>=0.13
+joblib<2,>=1.4
+streamlit<2,>=1.40
+pytest<10,>=8
+nbformat<6,>=5.10

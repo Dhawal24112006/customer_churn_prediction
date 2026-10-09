@@ -1,0 +1,52 @@
+feature,shap_value,feature_value
+tenure,0.21363010779023173,1.0
+month_to_month,0.10994769777171315,1.0
+MonthlyCharges,-0.05717911261599515,29.85
+InternetService_Fiber optic,-0.05200555799528958,0.0
+OnlineSecurity_No,0.04957765676081183,1.0
+PaymentMethod_Electronic check,0.03642145947087555,1.0
+TotalCharges,0.03578163799829784,29.85
+PhoneService_No,0.0356548995245248,1.0
+PaperlessBilling_No,0.029796062572859217,0.0
+MultipleLines_No,0.027778684231452633,0.0
+TechSupport_No,0.02542424837592988,1.0
+OnlineBackup_No,-0.021545706875622295,0.0
+StreamingTV_Yes,-0.014557345816865547,0.0
+Dependents_No,0.006607041135430314,1.0
+Contract_Two year,0.005760833178646868,0.0
+Contract_One year,-0.005262138368561875,0.0
+gender_Female,0.00483906115405261,1.0
+TechSupport_Yes,0.003626416902989149,0.0
+StreamingMovies_Yes,-0.0027096760459243696,0.0
+PaymentMethod_Credit card (automatic),0.002627792255952943,0.0
+StreamingMovies_No,-0.0024547778069972936,1.0
+Partner_No,0.002340829372406039,0.0
+StreamingTV_No,-0.0008026225492358263,1.0
+InternetService_DSL,-0.0008008189499378038,1.0
+DeviceProtection_No,-0.0007046208251267894,1.0
+OnlineBackup_Yes,-0.000507213361561315,1.0
+PaymentMethod_Bank transfer (automatic),-0.000316813588142395,0.0
+service_count,0.00031267441809176844,1.0
+tenure_band_12-23,0.00029009506106378313,0.0
+MultipleLines_Yes,0.0002669809386134092,0.0
+OnlineSecurity_Yes,-0.0001723672728985437,0.0
+DeviceProtection_Yes,-0.00014708787202838414,0.0
+tenure_band_24-47,-2.0923605188710725e-05,0.0
+InternetService_No,1.343931071459692e-05,0.0
+SeniorCitizen,0.0,0.0
+MultipleLines_No phone service,0.0,1.0
+PhoneService_Yes,0.0,0.0
+Dependents_Yes,0.0,0.0
+Partner_Yes,0.0,1.0
+gender_Male,0.0,0.0
+OnlineSecurity_No internet service,0.0,0.0
+DeviceProtection_No internet service,0.0,0.0
+OnlineBackup_No internet service,0.0,0.0
+StreamingTV_No internet service,0.0,0.0
+TechSupport_No internet service,0.0,0.0
+StreamingMovies_No internet service,0.0,0.0
+Contract_Month-to-month,0.0,1.0
+PaperlessBilling_Yes,0.0,1.0
+PaymentMethod_Mailed check,0.0,0.0
+tenure_band_0-11,0.0,1.0
+tenure_band_48+,0.0,0.0

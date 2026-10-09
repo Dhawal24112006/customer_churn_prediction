@@ -1,0 +1,57 @@
+{
+  "artifact_version": "1.0",
+  "created_utc": "2026-10-09T18:41:50.493577+00:00",
+  "sklearn_version": "1.8.0",
+  "chosen_model": "xgboost",
+  "threshold": 0.75,
+  "criterion": "highest validation average precision, then lowest validation log loss",
+  "split": "60% train / 20% validation / 20% final test, stratified, seed 42",
+  "validation_metrics": {
+    "accuracy": 0.7707594038325053,
+    "precision": 0.8493150684931506,
+    "recall": 0.1657754010695187,
+    "f1": 0.27740492170022374,
+    "roc_auc": 0.8396600273838126,
+    "average_precision": 0.6497138816242713,
+    "log_loss": 0.42353963191206967,
+    "threshold": 0.75,
+    "confusion_matrix": [
+      [
+        1024,
+        11
+      ],
+      [
+        312,
+        62
+      ]
+    ]
+  },
+  "final_test_metrics": {
+    "accuracy": 0.7750177430801988,
+    "precision": 0.8352941176470589,
+    "recall": 0.18983957219251338,
+    "f1": 0.3093681917211329,
+    "roc_auc": 0.8471595752925676,
+    "average_precision": 0.6632620475658987,
+    "log_loss": 0.41383091084211565,
+    "threshold": 0.75,
+    "confusion_matrix": [
+      [
+        1021,
+        14
+      ],
+      [
+        303,
+        71
+      ]
+    ]
+  },
+  "assumptions": {
+    "contact_cost": 10.0,
+    "retained_value": 200.0,
+    "effectiveness": 0.1,
+    "budget": 1000.0
+  },
+  "rows": 7043,
+  "churn_rate": 0.2653698707936959
+}
